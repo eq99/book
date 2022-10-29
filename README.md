@@ -1,2 +1,7 @@
 # book
-open source books
+
+A collection of open source books.
+
+
+
+
