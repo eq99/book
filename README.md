@@ -2,11 +2,17 @@
 
 A collection of open source books.
 
-# programming languages
+# math
 
-- [Rust语言圣经](https://course.rs/about-book.html)
+- [linear algebra](https://github.com/zlotus/notes-linear-algebra)
 
 # computer science
 
 - [operating system](https://github.com/rcore-os/rCore-Tutorial-Book-v3)
+
+# programming languages
+
+- [Rust语言圣经](https://course.rs/about-book.html)
+
+
 
