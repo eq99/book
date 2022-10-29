@@ -6,4 +6,7 @@ A collection of open source books.
 
 - [Rust语言圣经](https://course.rs/about-book.html)
 
+# computer science
+
+- [operating system](https://github.com/rcore-os/rCore-Tutorial-Book-v3)
 
