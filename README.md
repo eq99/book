@@ -12,6 +12,8 @@ A collection of open source books.
 # computer science
 
 - [operating system](https://github.com/rcore-os/rCore-Tutorial-Book-v3)
+- [计算机网络学习笔记](https://github.com/BloothOfYouth/Computer-Network-Notes)
+- [Computer-Network-A-Top-Down-Approach-Answer](https://github.com/jzplp/Computer-Network-A-Top-Down-Approach-Answer)
 
 # programming languages
 
